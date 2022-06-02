@@ -3,7 +3,7 @@ module example.com/m
 go 1.18
 
 require github.com/sirupsen/logrus v1.7.1
-require github.com/crewjam/saml v0.4.0
+require github.com/crewjam/saml v0.4.3
 
 
 require (
