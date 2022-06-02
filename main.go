@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	token := "AKIAIMNOJVGFDXXXE4OA"
 	logrus.Info("hello")
 }
